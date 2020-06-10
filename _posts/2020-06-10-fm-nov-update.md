@@ -1,5 +1,7 @@
 # FM - 2019/20 Season Till Now
 
+Before jumping into my first recap - Everton (A), this is how our season has gone so far.
+
 ### August:
 
 ![](/images/fm_till_nov2019/image1.png)
