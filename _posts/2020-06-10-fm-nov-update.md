@@ -1,24 +1,70 @@
-# A Different Approach to FM
+# FM - 2019/20 Season Till Now
 
-## Introduction
+### August:
 
-I bought the latest edition of Football Manager when it came on sale recently. I had already put in a lot of hours without getting properly into the game, mainly because of several match engine quirks which were disrupting my enjoyment. That is when I stumbled upon this [thread](https://community.sigames.com/topic/486970-tactics-gymnastics-lyon/) in the SI Forums about using formations and roles to counter teams instead of setting a fixed formation as I have been doing till now. It sounded interesting so I gave it go with my Liverpool save (I almost always play as Liverpool).
+![](/images/fm_till_nov209/image1.png)
 
-I am trying to document my thought process on how I approached games and the results. It is both for slowing down my play as well as to learn to play. Fair warning, I rage quit twice against a team and asked my assistant manager to handle that game instead. I won’t be discussing that game and will mark it as a failure in my self-appraisal. I started this experiment after the first PL match of the season and I am currently in November of the same season. I don’t think I will be able to recap every single match as the earliest scout reports are gone now. 
+I started my experiment from the Chelsea game onwards
 
-## Background
+### September:
 
-The Liverpool squad in FM20 is really good though a bit short on depth at the back. Despite this, I sold Lovren to China. I also sent Lallana on loan to Milan as we have sufficient numbers up front and it is his last year of contract. (Also I am not a big fan of either).
+![](/images/fm_till_nov2019/image2.png)
 
-Instead I got in Kristoffer Ajer (CB) and Birger Meling (DL) as backups. I expect both will play sufficient minutes as we are involved in multiple competitions. My best XI after the sales and the transfers in is still the same Liverpool XI that has generally lined up this season IRL - Salah, Mane, Firmino, Wijnaldum, Hendo, Fabinho, TAA, Gomez, Van Dijk and Robbo.
+I rage-quit in the Atletico (A) game so that is a blackmark. 
 
-## Tactical Framework
-As second favourites for the title, I want to impose a style of play while keeping formations and roles fluid to counter the opposition. 
+### October:
 
-I want my team to play fast flowing football. The players should make good movement off the ball to receive in space and play at a higher tempo. I used the higher defensive line and engagement to mimic the higher press. I am not particularly good at FM or tactics so this is just my attempt. It seems to be working till now though that could be either a fluke or just the high quality players at my disposal making it work.
+![](/images/fm_till_nov2019/image3.png)
 
-My team instructions are set to the following, and I have made minimal changes to it till now:
+Lille were really lucky in their home game to escape with a point.
 
-![](/images/fm_intro/image1.png)
+### November:
+
+![](/images/fm_till_nov2019/image4.png)
+
+We drew to Chelsea after Robertson inexplicably decided to just stand still and let Tammy Abraham take the ball from the halfway line and stand still. The City home loss was hard. We created sufficient shots but no really good chances. Matip made a massive blunder under little pressure and we conceded from that. It was a fairly even match though Cancelo was very threatening. The Atletico home match was enjoyable because Deigo Costa went mad almost immediately after equalising for them and got himself sent off for a two-footed lunge on Van Dijk. They were hanging on to the draw but I somehow managed to win.
+
+As things stand, we are top of our CL group and 2nd in the league (4 points behind City). The loss to City at home might prove costly. Hopefully we will be getting a favourable draw in CL knockouts. LOSC play Atletico next and I am hoping LOSC win so that I can avoid Atletico forever. I doubt it would happen though. Ugh. 
+
+## Everton vs Liverpool
+Our team comes into this match after the 2 bruising encounters against City and Atletico Madrid respectively. This is a must win game, both for keeping City's lead down to 4 points as well as the importance of my first derby. Most of the first team is fatigued and I have to make do with the rotated squad. 
+
+### Pre-Match Opposition Report
+My scouts indicate that the following is their likely lineup and formation:
+
+![](/images/fm_till_nov2019/image5.png)
+
+As this is Everton, they have a lot of weaknesses (*lol*), and one of the notable weaknesses mentioned in the scouting report is their vulnerability to crosses. Though their central defenders are good, it makes sense because of the aggressive nature of both flanks. WB–IF is a very aggressive combo and in addition they have Sigurdsson who is also an attacking player. 
+
+### My Approach
+I decided to put two players in the DM strata, an Anchor to handle their AM or IFs while I attack that flank and another DM as an aggressive playmaker - Regista. I placed another playmaker between their defence and midfield – AP(S). I used a FB(S)-W(A) combo on my right wing to target their weaker left wing and went for a FB(S)-IW(S) combo on the left wing.
+I started like this but immediately swapped Keita and Chirivella as the former is a more natural DM. Origi played as a PF(A). 
+
+![](/images/fm_till_nov2019/image6.png)
+
+### Post Match
+So what was the result?
+
+![](/images/fm_till_nov2019/image7.png)
+
+Pretty good! :) 
+And this is with my rotated squad so I am really happy about this.
+
+We really dominated them!
+
+![](/images/fm_till_nov2019/image8.png)
+
+Keita had a great game and really imposed himself on the game. He had 6 key passes out of which one got converted and 2 dribbles. He came away the player of the match. Chirivella also had a good game and his assist kickstarted the game. Both Matip and Origi got on the scoresheet from cross assists, one a freekick (Chirivella) and another from Wijnaldum, the AP(S).  AOC, my W(A) had 10 dribbles! So at least a few elements of what I wanted came through in this match. Final ratings:
+
+![](/images/fm_till_nov2019/image9.png)
+
+Mission accomplished, City’s lead kept manageable and Everton kept quiet.
+
+![](/images/fm_till_nov2019/image10.png)
+
+
+
+
+
 
 
