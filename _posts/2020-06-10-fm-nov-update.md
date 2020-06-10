@@ -1,0 +1,24 @@
+# A Different Approach to FM
+
+## Introduction
+
+I bought the latest edition of Football Manager when it came on sale recently. I had already put in a lot of hours without getting properly into the game, mainly because of several match engine quirks which were disrupting my enjoyment. That is when I stumbled upon this [thread](https://community.sigames.com/topic/486970-tactics-gymnastics-lyon/) in the SI Forums about using formations and roles to counter teams instead of setting a fixed formation as I have been doing till now. It sounded interesting so I gave it go with my Liverpool save (I almost always play as Liverpool).
+
+I am trying to document my thought process on how I approached games and the results. It is both for slowing down my play as well as to learn to play. Fair warning, I rage quit twice against a team and asked my assistant manager to handle that game instead. I won’t be discussing that game and will mark it as a failure in my self-appraisal. I started this experiment after the first PL match of the season and I am currently in November of the same season. I don’t think I will be able to recap every single match as the earliest scout reports are gone now. 
+
+## Background
+
+The Liverpool squad in FM20 is really good though a bit short on depth at the back. Despite this, I sold Lovren to China. I also sent Lallana on loan to Milan as we have sufficient numbers up front and it is his last year of contract. (Also I am not a big fan of either).
+
+Instead I got in Kristoffer Ajer (CB) and Birger Meling (DL) as backups. I expect both will play sufficient minutes as we are involved in multiple competitions. My best XI after the sales and the transfers in is still the same Liverpool XI that has generally lined up this season IRL - Salah, Mane, Firmino, Wijnaldum, Hendo, Fabinho, TAA, Gomez, Van Dijk and Robbo.
+
+## Tactical Framework
+As second favourites for the title, I want to impose a style of play while keeping formations and roles fluid to counter the opposition. 
+
+I want my team to play fast flowing football. The players should make good movement off the ball to receive in space and play at a higher tempo. I used the higher defensive line and engagement to mimic the higher press. I am not particularly good at FM or tactics so this is just my attempt. It seems to be working till now though that could be either a fluke or just the high quality players at my disposal making it work.
+
+My team instructions are set to the following, and I have made minimal changes to it till now:
+
+![](/images/fm_intro/image1.png)
+
+
