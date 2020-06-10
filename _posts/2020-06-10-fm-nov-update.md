@@ -2,7 +2,7 @@
 
 ### August:
 
-![](/images/fm_till_nov209/image1.png)
+![](/images/fm_till_nov2019/image1.png)
 
 I started my experiment from the Chelsea game onwards
 
@@ -60,11 +60,4 @@ Keita had a great game and really imposed himself on the game. He had 6 key pass
 
 Mission accomplished, City’s lead kept manageable and Everton kept quiet.
 
-![](/images/fm_till_nov2019/image10.png)
-
-
-
-
-
-
-
+![](/images/fm_till_nov2019/image10.jpeg)
