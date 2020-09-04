@@ -1,62 +1,83 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
+@import "normalize";
+/* Typography */
 
-@import "{{ site.theme }}";
-
-.post img {
-        display: block;
-        border:1px solid #021a40;
-        vertical-align: top;
-        margin-left: auto;
-        margin-right: auto;
+html {
+    font-family: 'Roboto', sans-serif;
 }
 
-.post figcaption {
-  text-align: center;
-  font-size: .8rem;
-  font-style: italic;
-  color: light-grey;
+@media (min-width: 576px) {
+    html {
+	font-size: 14px;
+    }
 }
 
-.language-python { border-left: 1px solid lightcoral; }
-
-.language-python + .language-plaintext {
-        border-left: 1px solid grey;
-        margin-left: 1rem !important;
-}
-.language-python + .language-plaintext code { background-color: white !important; }
-.language-python + .language-plaintext pre  { background-color: white !important; }
-
-// for Jupyter Notebook HTML Code Cells from https://www.fast.ai/public/css/hyde.css
-
-.input_area pre, .input_area div {
-        margin-bottom:0.1rem !important;
-        margin-top:0.1rem !important;
-        padding-bottom:0 !important;
-        padding-top:0 !important;
-}
-.output_area pre, .output_area div {
-        margin-bottom:0.1rem !important;
-        margin-top:0.1rem !important;
-        padding-bottom:0 !important;
-        padding-top:0 !important;
-        background-color: white !important;
-}
-.input_area pre {
-        border-left: 1px solid lightcoral;
-}
-.output_area pre {
-        border-left: 1px solid grey;
-        margin-left: 1rem !important;
-}
-.codecell {
-        border-right: 2px solid lightgrey;
-        margin-bottom:1rem !important;
-        margin-top:1rem !important;
-        padding-bottom:0 !important;
-        padding-top:0 !important;
+@media (min-width: 768px) {
+    html {
+	font-size: 16px;
+    }
 }
 
-.codecell table { width: auto; }
+@media (min-width: 992px) {
+    html {
+	font-size: 18px;
+    }
+}
 
+@media (min-width: 1200px) {
+	html {
+	font-size: 20px;
+  	}
+}
+
+.icons-social i {
+    font-size: 3em;
+}
+
+/* Custom Styles */
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    padding: 0 30px;
+    text-align: center;
+    background:#EDEDED;
+    color: #4B5658;
+}
+
+main > .intro {
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 3.75em;
+    font-weight: 600;
+}
+
+main > .tagline {
+    font-size: 1.5rem;
+    margin: 1.5rem 0;
+    font-weight: 100;
+}
+
+.icons-social i {
+    padding: 10px;
+}
+
+.devto {
+    margin-bottom: -0.20rem;
+}
+
+.devto svg {
+    margin-bottom: -0.20rem;
+    margin-left: 0.675rem;;
+    width: 2.65rem;
+    height: 2.65rem;
+}
+
+.icons-social a {
+    color: #4B5658;
+}
+
+.icons-social a svg path{
+    fill: #4B5658;
+}
